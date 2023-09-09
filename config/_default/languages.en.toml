@@ -15,8 +15,8 @@ title = "Alex Otara"
 [author]
   name = "Alex Otara"
   image = "img/author.jpg"
-  headline = "Software Developer • Open-Source Enthusiast"
-  bio = "not from Regular Show"
+  headline = "Software Engineer"
+  bio = "Turning coffee into code, one cup at a time"
   links = [
     { email = "mailto:contact@alexotara.tech"},
     { twitter = "https://twitter.com/OtaraMbeche" },
