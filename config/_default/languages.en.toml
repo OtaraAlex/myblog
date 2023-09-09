@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Alex Otara"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  description = "Personal Website and Blog | Alex Otara"
+  copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) by Alex Otara"
+
+[author]
+  name = "Alex Otara"
+  image = "img/author.jpg"
+  headline = "Software Developer • Open-Source Enthusiast"
+  bio = "not from Regular Show"
+  links = [
+    { email = "mailto:contact@alexotara.tech"},
+    { twitter = "https://twitter.com/OtaraMbeche" },
+    { github = "https://github.com/OtaraAlex" },
+    { linkedin = "https://www.linkedin.com/in/alex-otara" }
+  ]
