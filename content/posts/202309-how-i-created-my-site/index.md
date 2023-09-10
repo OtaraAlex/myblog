@@ -1,7 +1,7 @@
 ---
 title: Create Your Blog with Hugo's Static Site Generator
 slug: static_sites
-summary: In this post we go over the ease of creating a site using Markdown
+summary: In this post we go over the ease of creating a site using SSGs
 description: In this post we go over the ease of creating a site using Markdown
 date: 2023-09-09T16:08:27+03:00
 categories: [Technical]
@@ -118,6 +118,10 @@ hugo server
 ``````
 
 ## Conclusion
-In this tutorial we covered what static site generators are, we went over examples and specifically targeted Hugo. We got to see how to use a free Hugo theme to implement a blog website and finally we served the website locally. It should be noted that from here you can easily deploy your website with Netlify for free in just a few simple [steps](https://docs.netlify.com/integrations/frameworks/hugo/).
+In this article we covered what static site generators are, went over examples and specifically targeted Hugo. 
 
-Voila! You have set up a website with little to no coding.Reach me on email or any of my social media handles if you have any questions or just want a chat :) I love getting feedback!
+We got to see how to use a free Hugo theme to implement a blog website and finally we served the website locally. It should be noted that from here you can easily deploy your website with Netlify for free in just a few simple [steps](https://docs.netlify.com/integrations/frameworks/hugo/).
+
+Voila! You have now set up a website with little to no coding.
+
+Reach me on email or any of my social media handles if you have any questions or just want a chat :)

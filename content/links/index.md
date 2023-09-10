@@ -1,7 +1,7 @@
 ---
 title: Links
 slug: links
-date: 2023-01-30T09:51:03+03:00
+date: 2023-09-03T11:41:03+03:00
 categories: []
 tags: []
 draft: false
@@ -19,8 +19,8 @@ Here is a collection of other places you can find me and websites/articles I fin
 
 ## Mine
 
-- [Drive Talks](https://auto.insidemordecai.com), a car/motorsport blog I run and post on sometimes.
-- [Spotify](https://open.spotify.com/user/jv19tenfbkqd9so7369kfvwxa?si=52fb320ea0814cd2)
+- [Medium](https://medium.com/@alexotara)
+- [Spotify](https://open.spotify.com/user/315qr5vf7up73ptqkqbih6rkfhwq)
 
 ## Others
 
@@ -28,12 +28,13 @@ Here is a collection of other places you can find me and websites/articles I fin
 - [Manu Moreale](https://manuelmoreale.com/)
 - [Open Source Musings](https://opensourcemusings.com/), a website about free and open source software.
 - [Christopher Butler](https://www.chrbutler.com/), thoughts on design and culture evolution.
+- [Ruslan Synytsky](https://ruslansynytskyi.com/), a backend engineer with a focus on microservices and cloud technologies.
 - [Eric Murphy](https://ericmurphy.xyz), posts about the web, Linux, minimal sites and other topics.
 
 ## Text Playlist
 
 Inspired by [Scott Nesbitt](https://scottnesbitt.net/)
-- [minimal web](https://mnmlist.com/w/)
+- [Minimal Web](https://mnmlist.com/w/)
 - [Digital Minimalism](https://47nil.com/digital.html)
 - [Feeling Stuck is the Creative Process](https://writing.fm/feeling-stuck-is-the-creative-process/)
 - [My Coffee Maker Just Makes Coffee](https://bt.ht/one-thing/)
