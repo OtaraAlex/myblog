@@ -22,8 +22,8 @@ highlightCurrentMenuArea = true
   layout = "fixed-fill"
 
 [footer]
-  showCopyright = false
-  showThemeAttribution = false
+  showCopyright = true
+  showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
 
@@ -42,7 +42,7 @@ highlightCurrentMenuArea = true
   showViews = false
   showLikes = false
   showDateUpdated = false
-  showAuthor = false
+  showAuthor = true
   showHero = true
   heroStyle = "background"
   layoutBackgroundBlur = true
