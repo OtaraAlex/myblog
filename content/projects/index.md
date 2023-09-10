@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-date: 2022-10-27T11:54:02+03:00
+date: 2023-09-03T12:54:02+03:00
 draft: false
 
 showDate: false
@@ -26,19 +26,14 @@ This section outlines some of the projects I have taken on my quest to constantl
     </thead>
     <tbody>
          <tr>
-            <td><img class="customEntitityAlbum" src="img/etransact-text-logo.png"/></td>
-            <td><a target="_blank" href="https://github.com/insidemordecai/etransact/">eTransact</a></td>
-            <td>A mobile app and a companion web app built on Flutter for vendors to send transactional documents (invoices...) and customers to receive them. It makes use of Firebase for the authentication and storage. </td>
+            <td><img class="customEntitityAlbum" src="img/techmart-logo.png"/></td>
+            <td><a target="_blank" href="https://techmart-alexotara.vercel.app/">TechMart</a></td>
+            <td>An Ecommerce application with the ability to add and edit products on the go using a Content Management System (CMS), all advanced cart functionalities and a payments functionality with Stripe.</td>
         </tr>
          <tr>
-            <td><img class="customEntitityAlbum" src="img/cz-logo.png"/></td>
-            <td><a target="_blank" href="https://github.com/insidemordecai/chequered-zone/">Chequered Zone</a></td>
-            <td>A fullstack motorsport news website with users and their priviledges - standard users and admins. This was built using PHP and CSS (Bootstrap) with the backend as MySQL</td>
-        </tr>
-         <tr>
-            <td><img class="customEntitityAlbum" src="img/tbm-logo.png"/></td>
-            <td><a target="_blank" href="https://github.com/insidemordecai/think-big-marketing/">Think Big Marketing</a></td>
-            <td>A simple website to showcase a marketing firm with some blog entries. This was built with just HTML and vanilla CSS</td>
+            <td><img class="customEntitityAlbum" src="img/carhub-logo.png"/></td>
+            <td><a target="_blank" href="https://carhub-alexotara.vercel.app/">CarHub</a></td>
+            <td>Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.</td>
         </tr>
     </tbody>
 </table>
