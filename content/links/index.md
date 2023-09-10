@@ -15,12 +15,20 @@ sharingLinks: false
 showPagination: false
 ---
 
-Here is a collection of other places you can find me and websites/articles I find interesting. These are mainly places I find inspiration from or tend to reference a lot.
+Here is a compilation of other platforms where you can find me, as well as websites and articles that captivate my interest.
 
 ## Mine
 
 - [Medium](https://medium.com/@alexotara)
 - [Spotify](https://open.spotify.com/user/315qr5vf7up73ptqkqbih6rkfhwq)
+
+## Overlanding
+
+- [The Mara Nomads](https://www.youtube.com/@TheMaraNomads1920MN)
+
+## Photography/Videography
+
+- [Fernweh Chronicles](https://www.youtube.com/@FernwehChronicles)
 
 ## Others
 

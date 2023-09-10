@@ -28,7 +28,7 @@ This section outlines some of the projects I have taken on my quest to constantl
          <tr>
             <td><img class="customEntitityAlbum" src="img/techmart-logo.png"/></td>
             <td><a target="_blank" href="https://techmart-alexotara.vercel.app/">TechMart</a></td>
-            <td>An Ecommerce application with the ability to add and edit products on the go using a Content Management System (CMS), all advanced cart functionalities and a payments functionality with Stripe.</td>
+            <td>An Ecommerce application with the ability to add and edit products on the go using Sanity CMS, advanced cart functionalities and a payments functionality with Stripe.</td>
         </tr>
          <tr>
             <td><img class="customEntitityAlbum" src="img/carhub-logo.png"/></td>
