@@ -1,8 +1,8 @@
 ---
 title: Create Your Blog with Hugo's Static Site Generator
 slug: static_sites
-summary: In this post we go over the ease of creating a site using SSGs
-description: In this post we go over the ease of creating a site using Markdown
+summary: Discover the simplicity of building your own website using Static Site Generators (SSGs) in this post. We'll explore how SSGs streamline the process, making web development accessible to everyone.
+description: This blog post explores the straightforward process of creating a website using Markdown and Static Site Generators (SSGs). Learn how SSGs like Hugo and the power of Markdown combine to simplify web development, making it approachable for individuals of all backgrounds. Join us on this journey to demystify web design and development.
 date: 2023-09-09T16:08:27+03:00
 categories: [Technical]
 tags: [Static Site Generators, Hugo, Blowfish]
