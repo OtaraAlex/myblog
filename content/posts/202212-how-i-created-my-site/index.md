@@ -17,7 +17,7 @@ Greetings 👋. In this blog post we will cover;
 
 Alright, let’s get right into it!
 
-# What is a static site generator?
+## What is a static site generator?
 
 A static site generator or SSG is defined as being
 
@@ -38,7 +38,7 @@ There are a couple of reasons but just to mention a few
  * **They are very cost effective**. The server resources used are minimal since there is no database and the content is already prebuilt.
  * **Version Control**. Since the entire site is a combination of files and folders, you can leverage GIT to keep track of changes and collaborate with others.
 
-# Intro to Hugo
+## Intro to Hugo
 
 There are several static site generators out there that you can choose from like *Jekyll*, *Hugo*, *Gatsby* and *Next.js*.
 
@@ -64,7 +64,7 @@ hugo new site mywebsite
 
 This command will create a directory, `mywebsite`, in the root directory.
 
-# Using a free Hugo template to generate your blog
+## Using a free Hugo template to generate your blog
 
 Using Hugo comes with the advantage of having access to a variety of free beautiful themes. You can use these [themes](https://themes.gohugo.io/) to make your website. This lets you focus on sharing your content with the world and not dwell to much on designing.
 
@@ -86,7 +86,7 @@ We are doing this mainly so that we can pull changes from the main blowfish repo
 git submodule update --remote --merge
 ``````
 
-# Configuring the Theme
+## Configuring the Theme
 Blowfish does not constrain you on how to organize your content. An example of how to structure your content is as follows
 
 ``````
@@ -117,7 +117,7 @@ Run this command locally to view your site.
 hugo server
 ``````
 
-# Conclusion
+## Conclusion
 In this tutorial we covered what static site generators are, we went over examples and specifically targeted Hugo. We got to see how to use a free Hugo theme to implement a blog website and finally we served the website locally. It should be noted that from here you can easily deploy your website with Netlify for free in just a few simple [steps](https://docs.netlify.com/integrations/frameworks/hugo/).
 
 Voila! You have set up a website with little to no coding.Reach me on email or any of my social media handles if you have any questions or just want a chat :) I love getting feedback!
