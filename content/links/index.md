@@ -36,7 +36,6 @@ Here is a compilation of other platforms where you can find me, as well as websi
 - [Manu Moreale](https://manuelmoreale.com/)
 - [Open Source Musings](https://opensourcemusings.com/), a website about free and open source software.
 - [Christopher Butler](https://www.chrbutler.com/), thoughts on design and culture evolution.
-- [Ruslan Synytsky](https://ruslansynytskyi.com/), a backend engineer with a focus on microservices and cloud technologies.
 - [Eric Murphy](https://ericmurphy.xyz), posts about the web, Linux, minimal sites and other topics.
 
 ## Text Playlist

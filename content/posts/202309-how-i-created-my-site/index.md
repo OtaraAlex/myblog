@@ -27,7 +27,7 @@ Now to break down this definition we can travel back in time before the era of S
 
 Static site generators therefore take the data provided to them in this case a blog like this one written in either markdown, yaml or any specific format and parse it into a static website.
 
-<!-- ![ssg-host-flow](https://github.com/OtaraAlex/portfolio_website/assets/111053808/53a9fdc2-5ce4-421e-85a6-a2f3fd7e5e79) -->
+![Netlify SSG host flow](/ssg-host-flow.png 'SSG host flow')
 
 ## Why use a site generator?
 
@@ -44,7 +44,7 @@ There are several static site generators out there that you can choose from like
 
 In this blog post we will mainly focus on **Hugo**, which is written in the **Golang** language.
 
-<!-- ![hugo-logo-wide](https://github.com/OtaraAlex/portfolio_website/assets/111053808/18d68bcb-694d-4b44-98d4-6be06f66db12) -->
+![Hugo](/hugo_logo.svg)
 
 For the purposes of this demo we will be using a linux machine. I will attach alternative guidelines for different platforms.
 
@@ -70,7 +70,7 @@ Using Hugo comes with the advantage of having access to a variety of free beauti
 
 We are going to use a theme called [blowfish](https://blowfish.page/) the very theme used on this site. It uses markdown files for content and yaml for configuration files. It is also very customizable to your preference.
 
-<!-- ![blowfish_logo](https://github.com/OtaraAlex/portfolio_website/assets/111053808/6dca4945-748a-4209-87ad-b047a878ea80) -->
+![Blowfish Logo](/blowfish_logo.png)
 
 To install this theme we will set it up a submodule in our hugo generated website.
 
@@ -123,5 +123,3 @@ In this article we covered what static site generators are, went over examples a
 We got to see how to use a free Hugo theme to implement a blog website and finally we served the website locally. It should be noted that from here you can easily deploy your website with Netlify for free in just a few simple [steps](https://docs.netlify.com/integrations/frameworks/hugo/).
 
 Voila! You have now set up a website with little to no coding.
-
-Reach me on email or any of my social media handles if you have any questions or just want a chat :)
