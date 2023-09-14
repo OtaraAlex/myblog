@@ -26,7 +26,7 @@ This section outlines some of the projects I have taken on my quest to constantl
     </thead>
     <tbody>
          <tr>
-            <td><img class="customEntitityAlbum" src="img/techmart-logo.png"/></td>
+            <td><img class="customEntitityAlbum" src="img/techmart-logo.jpg"/></td>
             <td><a target="_blank" href="https://techmart-alexotara.vercel.app/">TechMart</a></td>
             <td>An Ecommerce application with the ability to add and edit products on the go using Sanity CMS, advanced cart functionalities and a payments functionality with Stripe.</td>
         </tr>
