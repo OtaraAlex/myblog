@@ -16,7 +16,7 @@ Hi 👋 I'm a Software Engineer and an Economics & Statistics student.
 
 ## What I do
 
-I'm based in Kenya, and I've been actively shipping code for a little more than a year. My primary focus is on front-end web projects, although from time to time, I also dabble in full-stack development.
+I'm based in Kenya, and I've been actively shipping code for a little more than a year. I focus primarily on full-stack web development.
 
 Check out my [portfolio](https://www.alexotara.tech/)
 
@@ -24,7 +24,7 @@ Check out my [portfolio](https://www.alexotara.tech/)
 
 Besides tech, I'm deeply immersed in the realm of `overlanding`, avidly tracking travellers' adventures. Simultaneously, my passion for `photography` fuels my relentless quest to capture and convey the world's splendor through my camera lens.
 
-These twin pursuits afford me a rich tapestry of experiences and perspectives, enabling me to traverse the globe both digitally and artistically.
+These two pursuits afford me a rich tapestry of experiences and perspectives, enabling me to traverse the globe both digitally and artistically.
 
 ## This Site 
 
