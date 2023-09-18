@@ -12,7 +12,9 @@ showAuthor: false
 showPagination : false
 ---
 
-Hi 👋 I'm a Software Engineer and an Economics & Statistics student.
+Greetings👋 
+
+I'm a Software Engineer and an Economics & Statistics student.
 
 ## What I do
 
@@ -22,7 +24,7 @@ Check out my [portfolio](https://www.alexotara.tech/)
 
 ## Outside of Tech
 
-Besides tech, I'm deeply immersed in the realm of `overlanding`, avidly tracking travellers' adventures. Simultaneously, my passion for `photography` fuels my relentless quest to capture and convey the world's splendor through my camera lens.
+Besides tech, I'm deeply immersed in the realm of <u>**overlanding**</u>, avidly tracking travellers' adventures. Simultaneously, my passion for <u>**photography**</u> fuels my relentless quest to capture and convey the world's splendor through my camera lens.
 
 These two pursuits afford me a rich tapestry of experiences and perspectives, enabling me to traverse the globe both digitally and artistically.
 
