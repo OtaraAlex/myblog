@@ -2,7 +2,7 @@
 title: What Do You Make Of OpenAI's Voice And Vision Capabilities?
 slug: chatgpt-can-now-see-hear-and-speak
 summary: ChatGPT can now see, hear, and speak. What does this mean to Google and Apple who have already tried it with **Assistant** and **Siri** before?
-description: Whether you're an aspiring coder or simply curious about the tech world, this blog provides a balanced perspective on a career that's often hailed as the future.
+description: ChatGPT can now see, hear, and speak. What does this mean to Google and Apple who have already tried it with **Assistant** and **Siri** before?
 date: 2023-09-26T01:03:41+03:00
 categories: [Technical]
 tags: [AI, ChatGPT, OpenAI]
