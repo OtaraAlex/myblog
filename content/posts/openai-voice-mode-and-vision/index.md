@@ -33,7 +33,7 @@ You can now upload an image or more to ChatGPT and let it analyse the whole of i
 
 This image understanding is powered by GPT-3.5 and GPT-4 multimodals which can analyse a wide range of images, such as photographs and screenshots, and documents that contain both text and images
 
-![](/bird.jpg "Document that contains both image and text")
+![](/gptvision.jpg "Sample document with both text and image")
 
 ## The Competition with Google and Apple
 
