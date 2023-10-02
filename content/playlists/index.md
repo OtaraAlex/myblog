@@ -15,7 +15,7 @@ sharingLinks: false
 showPagination: false
 ---
 
-- [Alex on Spotify](https://open.spotify.com/user/315qr5vf7up73ptqkqbih6rkfhwq)
+Listen to [me on Spotify](https://open.spotify.com/user/315qr5vf7up73ptqkqbih6rkfhwq)
 
 
 {{< spotify type="playlist" id="0jRYMngkSF4jz811xkHXXC" width="100%" height="200" >}}
