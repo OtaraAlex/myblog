@@ -15,7 +15,6 @@ buildFuture = false
 
 [permalinks]
   posts = '/:slug/' # for cleaner links
-  attic = '/:slug/'
 
 [imaging]
   anchor = 'Center'
