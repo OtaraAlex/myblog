@@ -15,11 +15,11 @@ title = "Alex Otara"
 [author]
   name = "Alex Otara"
   image = "img/author.jpg"
-  headline = "Software Engineer • ML Enthusiast"
+  headline = "Software Engineer"
   bio = "Turning coffee into code, one cup at a time"
   links = [
     { email = "mailto:contact@alexotara.tech"},
-    { twitter = "https://twitter.com/OtaraMbeche" },
+    { x-twitter = "https://twitter.com/OtaraMbeche" },
     { github = "https://github.com/OtaraAlex" },
     { linkedin = "https://www.linkedin.com/in/alex-otara" }
   ]
