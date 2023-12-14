@@ -81,4 +81,4 @@ Run this command locally to view your site.
 hugo server
 ``````
 
-Voila. Your site is up in development!
+Voila. Your website is up in development!
