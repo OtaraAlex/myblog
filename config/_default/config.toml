@@ -1,5 +1,5 @@
 #theme = "blowfish"
-baseURL = "https://blog.alexotara.tech"
+baseURL = "https://blog.alexotara.com"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true

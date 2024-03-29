@@ -20,7 +20,7 @@ I'm a Software Engineer and an Economics & Statistics student.
 
 I'm based in Kenya, and I've been actively shipping code for a little more than a year. I focus primarily on full-stack web development.
 
-Check out my [portfolio](https://www.alexotara.tech/)
+Check out my [portfolio](https://www.alexotara.com/)
 
 ## Outside of Tech
 
